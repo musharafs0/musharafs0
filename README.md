@@ -1,18 +1,19 @@
 Musharaf S
-
+---
 BSc Computer Science
 Data Scientist at Revin Krishi (Incubated at TechIn, IIT Palakkad)
 Python | Machine Learning | Power BI | Data Analytics
-
+---
 About Me
+---
 
 I am a Data Scientist working on real-world agricultural and predictive analytics problems. I specialize in building end-to-end machine learning solutions, from data preprocessing and feature engineering to model evaluation and business visualization.
 
 I am focused on developing production-level machine learning systems and improving my expertise in deep learning.
 
 Professional Experience
-
 Data Scientist – Revin Krishi
+
 (Incubated at TechIn, IIT Palakkad)
 
 Developing predictive machine learning models for crop and disease analysis
@@ -26,12 +27,11 @@ Integrating machine learning outputs with Power BI dashboards for business insig
 Working with real agricultural datasets to support decision-making
 
 Projects
-
 Pest Disease Prediction System (Real-Time Machine Learning Project)
 
 A real-world machine learning project focused on predicting crop pest and disease occurrence using environmental and agricultural parameters.
 
-Technologies Used:
+Technologies Used
 
 Python
 
@@ -45,7 +45,7 @@ Hyperparameter Tuning
 
 Power BI Dashboard Integration
 
-Key Highlights:
+Key Highlights
 
 Built multi-class classification models
 
@@ -56,21 +56,22 @@ Implemented preprocessing pipelines
 Connected model outputs to Power BI for interactive dashboards
 
 Job Tracker & Application Analyzer
+
 https://github.com/musharafs0/job-tracker-analyzer
 
 A Python and Streamlit application to track and analyze job applications with filtering, visualization, and CSV-based storage.
 
 PLACED OR NOT – Machine Learning Classification Project
+
 https://github.com/musharafs0/PLACED-OR-NOT-ML-PROJECT
 
-A classification project predicting student placement outcomes using Logistic Regression and Support Vector Machine, including full preprocessing, EDA, and model evaluation workflow.
+A classification project predicting student placement outcomes using Logistic Regression and Support Vector Machine, including preprocessing, EDA, and model evaluation.
 
 IPL 2018 Analysis – Power BI Dashboard
 
 An interactive dashboard analyzing team performance, player statistics, and match insights using Power BI.
 
 Skills
-
 Languages
 
 Python
@@ -125,7 +126,7 @@ GitHub: https://github.com/musharafs0
 
 Email: musharafksiraj@gmail.com
 
-Mobile: +91 8943158662 📧 musharafksiraj@gmail.com
+Mobile: +91 8943158662
 
 ---
 
