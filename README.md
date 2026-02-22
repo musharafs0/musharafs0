@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Musharaf S
 
 🎓 BSc Computer Science | 🐍 Python | 🤖 Machine Learning & Deep Learning | 📊 Power BI  
-🔍 Currently seeking opportunities in Data Science, Python Development, and AI/Analytics
+Currently I am a Data Scientist in Revin Krishi ,It is an Incubate of TechIn IIT Palakkad
 
 ---
 
