@@ -1,49 +1,131 @@
-# 👋 Hey, I'm Musharaf S
+Musharaf S
 
-🎓 BSc Computer Science | 🐍 Python | 🤖 Machine Learning & Deep Learning | 📊 Power BI  
-Currently I am a Data Scientist in Revin Krishi ,It is an Incubate of TechIn IIT Palakkad
+BSc Computer Science
+Data Scientist at Revin Krishi (Incubated at TechIn, IIT Palakkad)
+Python | Machine Learning | Power BI | Data Analytics
 
----
+About Me
 
-## 💼 Projects
+I am a Data Scientist working on real-world agricultural and predictive analytics problems. I specialize in building end-to-end machine learning solutions, from data preprocessing and feature engineering to model evaluation and business visualization.
 
-- 🧠 [Job Tracker & Application Analyzer](https://github.com/musharafs0/job-tracker-analyzer)  
-  A Python + Streamlit app to track and analyze job applications using charts, filters, and CSV storage.
+I am focused on developing production-level machine learning systems and improving my expertise in deep learning.
 
-- 🎯 [PLACED OR NOT – ML Project](https://github.com/musharafs0/PLACED-OR-NOT-ML-PROJECT)  
-  A machine learning classification project that predicts student placement outcomes using logistic regression and SVM. Includes data preprocessing, EDA, model evaluation, and accuracy comparison.
+Professional Experience
 
-- 📊 **IPL 2018 Analysis – Power BI Storytelling Project**  
-  A visually rich dashboard using Power BI to analyze IPL 2018 season, featuring:
-  - Team and player performance (Orange Cap, Purple Cap)
-  - Batting & bowling stats (e.g., strike rate, economy)
-  - Match outcomes by venue and team
-  - Summary insights for Chennai Super Kings, Sunrisers Hyderabad, and more
+Data Scientist – Revin Krishi
+(Incubated at TechIn, IIT Palakkad)
 
----
+Developing predictive machine learning models for crop and disease analysis
 
-## 🛠 Skills & Tools
+Performing data preprocessing, feature engineering, and model optimization
 
-**Languages:** Python, SQL  
-**Data Tools:** pandas, NumPy, matplotlib, Power BI  
-**ML & DL:** Scikit-learn, TensorFlow (beginner), Deep Learning concepts  
-**Other Tools:** Git, GitHub, Excel, VS Code
+Evaluating models using cross-validation and performance metrics
 
----
+Integrating machine learning outputs with Power BI dashboards for business insights
 
-## 🌱 Currently Learning
+Working with real agricultural datasets to support decision-making
 
-- Deep Learning (CNNs, RNNs, transfer learning)
-- End-to-end Data Science projects
-- Streamlit App Deployment
+Projects
 
----
+Pest Disease Prediction System (Real-Time Machine Learning Project)
 
-## 🤝 Let's Connect!
+A real-world machine learning project focused on predicting crop pest and disease occurrence using environmental and agricultural parameters.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/musharaf--s)
-- 💻 [GitHub](https://github.com/musharafs0)
-- 📧 musharafksiraj@gmail.com
+Technologies Used:
+
+Python
+
+Scikit-learn
+
+Pandas and NumPy
+
+Feature Engineering
+
+Hyperparameter Tuning
+
+Power BI Dashboard Integration
+
+Key Highlights:
+
+Built multi-class classification models
+
+Handled imbalanced datasets
+
+Implemented preprocessing pipelines
+
+Connected model outputs to Power BI for interactive dashboards
+
+Job Tracker & Application Analyzer
+https://github.com/musharafs0/job-tracker-analyzer
+
+A Python and Streamlit application to track and analyze job applications with filtering, visualization, and CSV-based storage.
+
+PLACED OR NOT – Machine Learning Classification Project
+https://github.com/musharafs0/PLACED-OR-NOT-ML-PROJECT
+
+A classification project predicting student placement outcomes using Logistic Regression and Support Vector Machine, including full preprocessing, EDA, and model evaluation workflow.
+
+IPL 2018 Analysis – Power BI Dashboard
+
+An interactive dashboard analyzing team performance, player statistics, and match insights using Power BI.
+
+Skills
+
+Languages
+
+Python
+
+SQL
+
+Data Analysis and Visualization
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Power BI
+
+Excel
+
+Machine Learning
+
+Scikit-learn
+
+TensorFlow (Beginner)
+
+Model Evaluation Techniques
+
+Feature Engineering
+
+Hyperparameter Tuning
+
+Tools
+
+GitHub
+
+VS Code
+
+Currently Learning
+
+Deep Learning (CNNs, RNNs, Transfer Learning)
+
+Production-Level Machine Learning Pipelines
+
+Model Deployment using Streamlit
+
+LLM and RAG Concepts
+
+Contact
+
+LinkedIn: https://www.linkedin.com/in/musharaf--s
+
+GitHub: https://github.com/musharafs0
+
+Email: musharafksiraj@gmail.com
+
+Mobile: +91 8943158662 📧 musharafksiraj@gmail.com
 
 ---
 
